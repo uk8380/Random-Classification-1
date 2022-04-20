@@ -12,10 +12,10 @@ Random classifier: It creates a set of decision trees from randomly selected sub
 Purpose of Random classifier: One of the most important features of the Random Forest Algorithm is that it can handle the data set containing continuous variables as in the case of regression and categorical variables as in the case of classification.
 
 ## Algorithm
-1.In Random forest n number of random records are taken from the data set having k number of records.\n
-2.Individual decision trees are constructed for each sample.
-3.Each decision tree will generate an output.
-4.Final output is considered based on Majority Voting or Averaging for Classification and regression respectively.
+1.In Random forest n number of random records are taken from the data set having k number of records.<br/>
+2.Individual decision trees are constructed for each sample.<br/>
+3.Each decision tree will generate an output.<br/>
+4.Final output is considered based on Majority Voting or Averaging for Classification and regression respectively.<br/>
 
 ## Program:
 ```
