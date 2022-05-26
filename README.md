@@ -23,8 +23,8 @@ Purpose of Random classifier: One of the most important features of the Random F
 ## Program:
 ```
 Program to implement random classification.
-Developed by   : SHAIK KHADAR BASHA
-Register Number : 212220230045
+Developed by   : MANNEPALLI UDAY KUMAR
+Register Number : 212219040168
 ```
 ```python
 import matplotlib.pyplot as plt
